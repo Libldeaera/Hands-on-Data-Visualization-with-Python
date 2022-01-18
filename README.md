@@ -13,7 +13,7 @@ Containers
 - Listeler
 - Sözlükler
 
-#### Proje : Vücut kitle indeksi hesaplama
+#### Proje 1: Vücut kitle indeksi hesaplama
 
 ## MODÜL  2
 
@@ -36,7 +36,7 @@ Metotlar
 
 Try-Except
 
-##### Proje 3: Rehber Uygulaması
+#### Proje 3: Rehber Uygulaması
 
 ## MODÜL 4
 Veri Kavramına Giriş
