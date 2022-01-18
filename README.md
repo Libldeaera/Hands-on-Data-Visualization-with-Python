@@ -1,6 +1,9 @@
   Yapay Zeka çağında veriyi anlamak, yorumlayabilmek ve analiz edebilmek en önemli yetkinliklerden biri haline geldi. Veri ile uğraşırken görselleştirme ve yorumlama yapabilmek için ihtiyacımız olan şeylerden birisi de elbette bir programlama dili olacaktır. İş dünyasının en çok ihtiyaç duyulan ve rağbet gören Python Programlama dili de veri ile uğraşmak isteyen herkes için bir sonraki adımda verileri görselleştirmek ve veriyi yorumlamak adına kullanılan en önemli araçtır.
+  
   Veri tüm Yapay Zeka projelerinin ön koşulu olduğundan, Python ile gerçek dünyadaki en temel ve popüler görselleştirme tekniklerini ve görselleştirme yoluyla büyük verileri yorumlayan ve kendilerini açıklayan raporların nasıl oluşturulacağını öğreneceğiz.
+  
   Verileri görselleştirmek için, bu veriler temizlenmeli ve doğru yorumlamayı elde etmek için iyi hazırlanmalıdır. Bunu başarmak için, verilerin Garbage In Garbage Out ilkesine göre önceden işlenmesi gerekir. Bu nedenle uzun satırlı verileri okuyabilmenin birincil yeteneği, veri görselleştirmeyle görünebilmektedir.
+  
   Çalışmanın sonunda diğer insanlara göstermek için bir rapor oluşturmaya olanak tanıyan uçtan uca bir görselleştirme projesi olacaktır.
 
 ### KURSUN ÖĞRETİLERİ 
