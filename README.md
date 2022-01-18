@@ -36,13 +36,10 @@
 #### Proje 2: Sosyal Medya Hesap İşlemleri
 
 ## MODüL 3
-Fonksiyonlar
-
-Modüller
-
-Metotlar
-
-Try-Except
+1. Fonksiyonlar
+2. Modüller
+3. Metotlar
+4. Try-Except
 
 #### Proje 3: Rehber Uygulaması
 
