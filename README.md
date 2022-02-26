@@ -38,7 +38,7 @@
 
 #### Proje 2: Sosyal Medya Hesap İşlemleri
 
-## MODüL 3
+## MODÜL 3
 1. Fonksiyonlar
 2. Modüller
 3. Metotlar
